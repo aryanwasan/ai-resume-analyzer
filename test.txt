@@ -1,1 +1,4 @@
-Hi i am aryan. I like python
+Aryan Wasan
+Skills: Python, data analysis, communication
+Experience: Built web projects using JavaScript
+Education: BCA
