@@ -1,0 +1,1 @@
+python, machine, learning, deep, data, analysis, numpy, pandas, tensorflow, pytorch, sql, git, docker, linux, statistics, nlp, transformers, embeddings, llm, flask, regression, classification, clustering
